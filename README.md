@@ -1,4 +1,4 @@
-# kodluyouruz_Insertion_Sort
+# kodluyoruz_Insertion_Sort
 Patikadev Insertion Sort ödevi için hazırlanmıştır.
 
 [22,27,16,2,18,6] 
